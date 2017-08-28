@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 /* ---------------------------
- GROUP 14 - RAIL FENCE CIPHER
+ RAIL FENCE CIPHER
 ----------------------------- */
 
 
